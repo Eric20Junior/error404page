@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://error-404notfound.netlify.app">
+    <a href="https://eric20junior.github.io/error404page/">
       Demo
     </a>
     <span> | </span>
@@ -34,11 +34,11 @@
 
 ## Overview
 
-![screenshot](./images/404.jpg)
+![screenshot](./img/404.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- https://error-404notfound.netlify.app
+- https://eric20junior.github.io/error404page/
 - I had a good experience building this.
 - I was able to relearn CSS properties i had forgotten.
 
