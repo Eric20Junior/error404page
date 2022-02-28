@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [hokagecodes.netlify.app](https://github.com/Eric20Junior)
-- GitHub [@hokageCodes](https://github.com/Eric20Junior})
+- Website [github.com/Eric20Junior](https://github.com/Eric20Junior)
+- GitHub [@Eric20Junior](https://github.com/Eric20Junior})
