@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://codepen.io/Hashirama-Senju/pen/GRMNwqB">
+    <a href="https://eric20junior.github.io/error404page/">
       Solution
     </a>
     <span> | </span>
@@ -56,6 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [hokagecodes.netlify.app](https://hokagecodes.netlify.app)
-- GitHub [@hokageCodes](https://{github.com/hokageCodes})
-- Twitter [@busaryoh](https://{twitter.com/busaryoh})
+- Website [hokagecodes.netlify.app](https://github.com/Eric20Junior)
+- GitHub [@hokageCodes](https://github.com/Eric20Junior})
